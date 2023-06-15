@@ -1,0 +1,13 @@
+{
+  "name": "c4Analyzer",
+  "version": "1.0.0",
+  "description": "A bot that fetches c4 audits from code4arena",
+  "main": "index.ts",
+  "author": "twitter.com/lelerukjaymoh",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.3"
+  }
+}
